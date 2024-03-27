@@ -145,6 +145,9 @@ public class UserService {
         user = userRepository.save(user);
 
         Order order = new Order();
+        // five percent discount = totPrice - (5/100)*totPrice
+        // which is equal to totPrice - totPrice/20 ;
+        // likewise for ten percent = totPrice - totPrice/10 ;
         int totAmount = lowercaseCoupon.equals("off5") ? (quantity * productService.getPrice()) - ((quantity * productService.getPrice()) / 20) : (quantity * productService.getPrice()) - ((quantity * productService.getPrice()) / 10);
         order.setAmount(totAmount);
         order.setUser(user);

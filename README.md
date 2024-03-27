@@ -18,10 +18,10 @@ To run the project on your PC , follow the given steps
 
 
 ## ER Diagram
-![RD60hz.Screenshot-2024-03-13-041146.png](https://i.im.ge/2024/03/13/RD60hz.Screenshot-2024-03-13-041146.png)
+![Screenshot 2024-03-27 202911](https://github.com/naveen-kk4/Vaccify/assets/133044450/dd99f2f5-7cb3-4ee9-965f-d5134aa3454e)
 ## Project UI (Swagger)
 
-![App Screenshot](https://i.im.ge/2024/03/13/RD9qkr.Screenshot-2024-03-13-032453.png)
+![Screenshot 2024-03-28 001316](https://github.com/naveen-kk4/shopify/assets/133044450/c895fde4-002a-48e9-8b1f-49a17db555da)
 
 
 
